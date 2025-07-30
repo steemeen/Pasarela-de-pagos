@@ -1,0 +1,4 @@
+Este proyecto consiste en el diseño y conceptualización de una plataforma web que permite gestionar préstamos personales de forma eficiente, organizada y segura. Se trata de una pasarela de cobros digital con funcionalidades clave para usuarios que ofrecen o reciben préstamos informales.
+
+https://app-de-cobros-7c9cb.web.app/
+
